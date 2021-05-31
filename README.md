@@ -7,8 +7,21 @@
 
 
 
-**Nested Graph**
+**Creating the Navigation Graph File**
 
-**Pass data** 
+**Adding the Fragments**
 
-**popUpTo and popUpToInclusive** 
+**Adding Fragments to the Navigation Graph**
+
+**NavHostFragment**
+
+**NavController and OnClick Listeners**
+
+**Fragment Transition Animations**
+
+**Backstack Management: PopUpTo and PopUpToInclusive**
+
+**Sending Data as Arguments through a Bundle to a Fragment**
+
+
+
