@@ -63,7 +63,7 @@
             app:argType="com.example.navigationcomponemtexample.Money"/>
 
         <argument android:name="list"
-            app:argType="com.example.navigationcomponemtexample.DummyList"/>
+            app:argType="com.example.navigationcomponemtexample.DummyList"></argument>
         <action
             android:id="@+id/action_confirmationFragment_to_mainFragment2"
             app:destination="@id/mainFragment"

@@ -42,7 +42,7 @@ class ConfirmationFragment : Fragment(),View.OnClickListener {
         Home_btn.setOnClickListener(this)
         val amount=money!!.amount
 
-        confirmation_message.setText("You have sent $amount to $recipient ")
+        confirmation_message.text = "You have sent $amount to $recipient"
 
         print("debug: $list")
     }
